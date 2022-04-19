@@ -1,0 +1,1 @@
+# O-Grande-Trabalho-C é um projeto para simbolizar um aplicativo que deseja desenvover um programa que ajude seus usuários a esccolher um bom filme, de acordo com as informações e categorias mostradas.
